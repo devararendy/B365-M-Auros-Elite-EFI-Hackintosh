@@ -1,5 +1,4 @@
 # B365-M-Auros-Elite-EFI-Hackintosh
-B365 M Auros Elite EFI for Hackintosh
 
 Luckily and Happily, I have finally built my first Hackintosh.
 
