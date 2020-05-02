@@ -54,7 +54,7 @@ What works:
 Intallation:
 - Create the macOS installer.
 - Install Clover EFI to your macOS installer media.
-- Download my EFI From Here
+- Download my EFI
 - Copy my EFI to the Clover EFI partition of your installation media.
 - After all steps above finished, your macOS installation media will be ready.
 
