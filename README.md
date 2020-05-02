@@ -1,4 +1,4 @@
-# B365-M-Auros-Elite-EFI-Hackintosh
+# B365 M Auros Elite Hackintosh EFI for macOS Mojave
 
 Luckily and Happily, I have finally built my first Hackintosh.
 
@@ -59,3 +59,4 @@ Intallation:
 - After all steps above finished, your macOS installation media will be ready.
 
 That's it and I hope this post would be helpful for someone who would like to build the Hackintosh.
+
