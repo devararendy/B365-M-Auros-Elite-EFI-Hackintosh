@@ -44,6 +44,7 @@ Kexts:
 
 What works:
 - Sound
+- Microphone
 - Intel Ethernet
 - USB-C Port
 - USB3 Speeds
