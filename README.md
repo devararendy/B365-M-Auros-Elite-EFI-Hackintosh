@@ -1,4 +1,4 @@
-# B365 M Auros Elite Hackintosh EFI for macOS Mojave
+# B365 M AORUS ELITE Hackintosh EFI for macOS Mojave
 
 Luckily and Happily, I have finally built my first Hackintosh.
 
